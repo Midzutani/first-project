@@ -1,0 +1,8 @@
+.cards {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  width: 930px;
+  padding-top: 60px;
+  gap: 60px 100px;
+}
